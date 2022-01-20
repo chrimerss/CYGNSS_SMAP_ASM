@@ -1,0 +1,3 @@
+# CYGNSS SMAP ASM
+
+Exploratory repo to explore whether CYGNSS soil moisture data can be used for extreme events...
